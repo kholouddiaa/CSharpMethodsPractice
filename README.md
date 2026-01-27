@@ -30,4 +30,8 @@ basic_1/
 └── README.md
 ```
 
+## How to Run
+1. Open the solution in Visual Studio
+2. Build the project
+3. Run the console application
 
