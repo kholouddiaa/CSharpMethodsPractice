@@ -20,9 +20,7 @@ The project emphasizes clean code, reusable methods, and safe user input handlin
 
 ---
 ## Project Structure
-
-
-
+```
 basic_1/
 │
 ├── Program.cs
@@ -30,6 +28,6 @@ basic_1/
 │ ├── MathMethods.cs
 │ └── ValidationMethods.cs
 └── README.md
-
+```
 
 
